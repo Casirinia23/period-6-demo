@@ -1,6 +1,6 @@
 
 /**
- * A guess the password program.
+ * A guess the password program. WEEEELLLLLIIIIIINNNNGGGGGTTTTTOOOOOONNNNNN ;)
  *
  *Cassie Ochoa-Lawrence
  * 11/20/2018
